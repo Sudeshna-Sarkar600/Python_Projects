@@ -1,1 +1,1 @@
-This is a Tableau end-to-end Project folder
+This is a Python end-to-end Project folder
